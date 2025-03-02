@@ -1,0 +1,2 @@
+C:/Users/Alan Lopez Romero/Desktop/AlanLRom1/mongo_aplication/mongo_aplication/android/app/.cxx/Debug/6m2c1t21/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Alan Lopez Romero/Desktop/AlanLRom1/mongo_aplication/mongo_aplication/android/app/.cxx/Debug/6m2c1t21/arm64-v8a/CMakeFiles/rebuild_cache.dir
